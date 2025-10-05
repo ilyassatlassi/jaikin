@@ -1,6 +1,5 @@
 import javax.swing.JFrame;
 import javax.swing.JPanel;
-import app.*;
 
 public class Jaikin extends JPanel {
     public static void main(String[] args) {
